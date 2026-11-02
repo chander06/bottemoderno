@@ -1,0 +1,5 @@
+# Bozza: sito nascosto ai motori di ricerca fino alla V1
+User-agent: *
+Disallow: /
+
+Sitemap: https://la-botte-gelata.yuvraj-chander.workers.dev/sitemap.xml
